@@ -1,0 +1,56 @@
+{
+  "proveedores": [
+    {
+      "id": 1,
+      "nombre": "Proveedor 3333",
+      "razon_social": "Razón Social 333",
+      "direccion": {
+        "calle": "Calle 333",
+        "numero": 3333,
+        "ciudad": "Ciudad 2",
+        "estado": "Estado 2",
+        "zip": "01120",
+        "pais": "País 2"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Proveedor 2",
+      "razon_social": "Razón Social 2",
+      "direccion": {
+        "calle": "Calle 2",
+        "numero": 12,
+        "ciudad": "Ciudad 2",
+        "estado": "Estado 2",
+        "zip": "01120",
+        "pais": "País 2"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Proveedor 3",
+      "razon_social": "Razón Social 3",
+      "direccion": {
+        "calle": "Calle 2",
+        "numero": 12,
+        "ciudad": "Ciudad 2",
+        "estado": "Estado 2",
+        "zip": "01120",
+        "pais": "País 2"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Proveedor 4",
+      "razon_social": "Razón Social 4",
+      "direccion": {
+        "calle": "Calle 2",
+        "numero": 12,
+        "ciudad": "Ciudad 2",
+        "estado": "Estado 2",
+        "zip": "01120",
+        "pais": "País 2"
+      }
+    }
+  ]
+}
